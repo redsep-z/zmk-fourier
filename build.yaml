@@ -17,3 +17,5 @@ include:
     shield: fourier_left
   - board: nice_nano_v2
     shield: fourier_right
+  - board: nice_nano_v2
+    shield: settings_reset
